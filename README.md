@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+👋 Olá! Eu sou o João Marcos
+🌱 Sou um desenvolvedor Java apaixonado por tecnologia e inovação. Sempre em busca de aprender novas habilidades e enfrentar desafios empolgantes.
+
+🚀 Sobre mim
+💻 Experiência em desenvolvimento com Java e Spring Framework.
+🔧 Habilidades em SQL, API RESTful e Integração de serviços de pagamento.
+📚 Adoro compartilhar conhecimento e colaborar em projetos open-source.
+🎓 Cursando Análise e Desenvolvimento de Sistemas.
+🔍 Atualmente, focado em backend java.
+
 <!--
 **Joaomacosdev/Joaomacosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
