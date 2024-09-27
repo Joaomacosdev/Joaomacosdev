@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://github.com/user-attachments/assets/74f89ddb-01b0-4347-aac9-ccb15fd6991d"/>
+<img align="center" width=100% src="https://github.com/user-attachments/assets/9b90b0f6-4930-415f-b6c4-bc937d4574c1"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu ❤️ desenvolver soluções tecnológicas inovadoras. <br><br> Sou um desenvolvedor especializado em <strong>Java e Spring Boot</strong>, com experiência na criação de aplicações robustas e escaláveis. Tenho paixão por <strong>backend</strong> e por construir sistemas eficientes, seguros e otimizados. Estou em busca de novas oportunidades para aplicar minhas habilidades e contribuir com soluções de alta qualidade que resolvam problemas complexos e melhorem a experiência do usuário.</p>&nbsp;
