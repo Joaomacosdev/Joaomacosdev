@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+<img align="center" width=100% src="https://github.com/user-attachments/assets/74f89ddb-01b0-4347-aac9-ccb15fd6991d"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu ❤️ desenvolver soluções tecnológicas inovadoras. <br><br> Sou um desenvolvedor especializado em <strong>Java e Spring Boot</strong>, com experiência na criação de aplicações robustas e escaláveis. Tenho paixão por <strong>backend</strong> e por construir sistemas eficientes, seguros e otimizados. Estou em busca de novas oportunidades para aplicar minhas habilidades e contribuir com soluções de alta qualidade que resolvam problemas complexos e melhorem a experiência do usuário.</p>&nbsp;
@@ -37,9 +37,18 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/jomarcosag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:joamarcosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-16150a274/"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/jomarcosag/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
+
+<a href="mailto:joamarcosdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-16150a274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 </div>
 &nbsp;
 &nbsp;
