@@ -44,9 +44,10 @@ boas práticas, arquitetura limpa e integração com cloud ☕🚀
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://streak-stats.demolab.com?user=Joaomacosdev&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=Joaomacosdev&theme=dracula&column=-1&row=1" height="150" />
 </div>
+
 
 ###
 
