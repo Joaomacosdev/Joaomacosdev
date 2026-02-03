@@ -54,8 +54,8 @@ boas práticas, arquitetura limpa e integração com cloud ☕🚀
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joaomacosdev&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Joaomacosdev&theme=dracula&column=-1&row=1" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=Joaomacosdev&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Joaomacosdev&theme=dracula&column=-1&row=1" height="150"/>
 </div>
 
 
